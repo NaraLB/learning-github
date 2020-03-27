@@ -12,3 +12,4 @@ This is a list:
 * Item 2
 3. Item 3
 4. Item 4
+- Item 5
