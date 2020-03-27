@@ -13,3 +13,7 @@ This is a list:
 3. Item 3
 4. Item 4
 - Item 5
+
+This training is part of [OLS initiative](https://openlifesci.org/)
+
+This is a list with some of [my favorite TV shows](./myFavoriteTVshows.md)
