@@ -16,4 +16,4 @@ This is a list:
 
 This training is part of [OLS initiative](https://openlifesci.org/)
 
-This is a list with some of [my favorite TV shows](./myFavoriteTVshows.md)
+This is a list with some of [my favorite TV shows](./MyFavoriteTVshows.md)
