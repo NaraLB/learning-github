@@ -1,1 +1,14 @@
-# learning-github
+# Hello! I'm learning how to use github
+
+## This is for OLS 1
+
+###This is a test!
+
+Writing something.
+
+This is a list:
+
+* Item 1
+* Item 2
+3. Item 3
+4. Item 4
